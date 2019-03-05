@@ -26,8 +26,8 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      codeCoverageEnabled = "YES">
+      codeCoverageEnabled = "YES"
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -43,9 +43,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A955D2AC1DEDDE6100018872"
-               BuildableName = "RomanNumeralCalculatorUITests.xctest"
-               BlueprintName = "RomanNumeralCalculatorUITests"
+               BlueprintIdentifier = "35B92546222E2FB900AA2E18"
+               BuildableName = "RomanNumeralCalculatorUITests2.xctest"
+               BlueprintName = "RomanNumeralCalculatorUITests2"
                ReferencedContainer = "container:RomanNumeralCalculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
